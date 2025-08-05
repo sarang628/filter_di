@@ -3,8 +3,8 @@ package com.sarang.torang.di.filter
 import com.sarang.torang.api.ApiFilter
 import com.sarang.torang.data.remote.response.NationApiModel
 import com.sarang.torang.BuildConfig
-import com.sryang.screen_filter.data.Nation
-import com.sryang.screen_filter.usecase.GetNationsUseCase
+import com.sarang.torang.data.Nation
+import com.sarang.torang.usecase.GetNationsUseCase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

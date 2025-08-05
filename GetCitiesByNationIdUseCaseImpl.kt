@@ -1,8 +1,8 @@
 package com.sarang.torang.di.filter
 
 import com.sarang.torang.api.ApiFilter
-import com.sryang.screen_filter.data.City
-import com.sryang.screen_filter.usecase.GetCitiesByNationIdUseCase
+import com.sarang.torang.data.City
+import com.sarang.torang.usecase.GetCitiesByNationIdUseCase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
