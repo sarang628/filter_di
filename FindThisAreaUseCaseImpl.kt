@@ -1,7 +1,6 @@
 package com.sarang.torang.di.filter_di
 
 import com.sarang.torang.di.repository.repository.impl.FindRepositoryImpl
-import com.sarang.torang.repository.FindRepository
 import com.sarang.torang.usecase.FindThisAreaUseCase
 import dagger.Module
 import dagger.Provides
